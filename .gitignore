@@ -1,6 +1,6 @@
-IMDB Dataset.csv
+/IMDB Dataset.csv
 output/
 __pycache__/
 .ipynb_checkpoints/
-Dataset/
 *.zip
+screenshots/

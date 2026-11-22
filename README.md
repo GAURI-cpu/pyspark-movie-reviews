@@ -17,7 +17,7 @@ Homework 1.2: a simple PySpark program that works on the IMDb dataset of 50,000 
 IMDb Dataset of 50K Movie Reviews from Kaggle:
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
-The dataset is not uploaded to this repo because it is a big file. Download it and put `IMDB Dataset.csv` in the same folder as `movie_reviews.py`.
+The dataset is in the `Dataset` folder of this repo (`Dataset/IMDB Dataset.csv`, about 63 MB). Before running the code, copy `IMDB Dataset.csv` into the same folder as `movie_reviews.py`.
 
 ## How to run
 
@@ -43,4 +43,5 @@ python movie_reviews.py
 ## Files
 
 - `movie_reviews.py`: the PySpark code
+- `Dataset/IMDB Dataset.csv`: the movie review dataset
 - `README.md`: this file
